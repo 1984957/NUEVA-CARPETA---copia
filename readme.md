@@ -8,7 +8,7 @@ Las encuestas de calidad de vida surgen como respuesta a la necesidad de caracte
 
 Las encuestas de calidad de vida son instrumentos que permiten analizar la situación de bienestar de la población investigada. En Colombia, la Encuesta Nacional de Calidad de Vida (ECV) es una operación estadística que el DANE realiza con el objeto de recoger información sobre diferentes aspectos y dimensiones del bienestar y las condiciones de vida de los hogares, incluyendo temas como: el acceso a bienes y servicios públicos, privados o comunales, salud, educación, atención integral de niños y niñas menores de 5 años, entre otros. La consideración de estos aspectos hace posible realiza análisis a los factores que explican los diferentes niveles de vida existentes en la sociedad. La Encuesta Nacional de Calidad de Vida (ECV) es, además, la fuente de información del cálculo del Índice de Pobreza Multidimensional, IPM.
 
-
+hola
 ## Métricas:
 - TIPO DE DATOS:
 Encuesta por muestreo (ssd)
